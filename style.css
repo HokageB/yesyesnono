@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+background-color: #00F6FF;   
+color: white ;
+text-align: center;
+padding-bottom: 30px;
+padding-top: 30px;
+font-size: 30px;
+}
+
+footer {
+    background-color: #00F6FF;
+
+}
+
+main p {
+     font-size: 48px;
+}
+
+.qerty {
+    margin-right: 700px;
+     padding: 20px;
+     background-color: white;
+     border-radius: 50px;
+}
